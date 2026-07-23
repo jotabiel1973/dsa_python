@@ -1,0 +1,1 @@
+print("Variáveis em Python")
